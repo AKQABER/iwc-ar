@@ -1,3 +1,7 @@
+<script type="module"
+  src="https://unpkg.com/@google/model-viewer@0.3.1/dist/model-viewer.js">
+</script>
+
 # Web AR Demo
 
 ## Apple
